@@ -1,0 +1,15 @@
+/* 
+    Created on : Oct 31, 2017, 10:46:28 PM
+    Author     : musenzi_loris
+*/
+
+body{
+    heigth:100%;
+}
+div#wrapper{
+    width : 100%;
+}
+#content{
+    margin-left:25%;
+    margin-right:25%;
+}
